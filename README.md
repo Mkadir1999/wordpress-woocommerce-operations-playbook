@@ -54,7 +54,7 @@ A practical operations checklist for running and troubleshooting a service-based
 
 ## Roadmap
 
-- [ ] Add screenshots
-- [ ] Add plugin audit template
-- [ ] Add SEO audit template
-- [ ] Add monthly maintenance checklist
+- [x] Add screenshots
+- [x] Add plugin audit template
+- [x] Add SEO audit template
+- [x] Add monthly maintenance checklist
