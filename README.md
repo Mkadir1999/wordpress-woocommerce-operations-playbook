@@ -13,13 +13,13 @@ A practical operations checklist for running and troubleshooting a service-based
 
 ## Daily Checklist
 
-- [ ] Website loads correctly
-- [ ] Checkout works
-- [ ] Contact form works
-- [ ] SSL is valid
-- [ ] Important pages are indexed
-- [ ] No critical plugin errors
-- [ ] Backups are running
+- [x] Website loads correctly
+- [x] Checkout works
+- [x] Contact form works
+- [x] SSL is valid
+- [x] Important pages are indexed
+- [x] No critical plugin errors
+- [x] Backups are running
 
 ## SEO Page Checklist
 
